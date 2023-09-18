@@ -1,0 +1,99 @@
+Body
+{
+	background-image: url('111bg.jpg');
+	font-family: Arial, sans-serif;
+}
+
+table, th, tr
+{
+	color: black;
+	width: 700px;
+	text-align: center;
+}
+
+.RowWhite
+{
+	background-color: #F2F9FF;
+}
+
+.RowBlack
+{
+	background-color: #696969;
+}
+
+
+a:hover
+{
+	color: red;
+}
+
+.HighlightRed
+{
+	color: red;
+	font-weight: bold;
+}
+
+.HeaderBox
+{
+	border-radius: 10px;
+	background-color: #222;
+	height: 200px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: white;
+}
+
+#ProfileImg
+{
+	border-radius: 50%;
+	border: 1px solid white;
+	width: 100px;
+	height: 100px;
+}
+
+.MiddleBox
+{
+	display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.TopicBox
+{
+	background-color: #222;
+	border-radius: 10px;
+	padding: 20px;
+	width: 30%;
+	color: ivory;
+}
+
+.TopicHeading
+{
+	text-align: center;
+	color: #27D6EC;
+}
+
+.TopicSubheading
+{
+	color: #C4F8FF;
+}
+
+.BottomBox
+{
+	background-color: #222;
+	border-radius: 10px;
+	height: 200px;
+	display: flex;
+    justify-content: space-between;
+}
+
+.LinkBox
+{
+	text-align: center;
+	width: 30%;
+}
+
+.BottomLinks
+{
+	color: white;
+}
